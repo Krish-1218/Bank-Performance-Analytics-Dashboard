@@ -69,7 +69,7 @@ Presents the main business insights and overall findings.
 * SQL_Queries.sql
 * README.md
 
----
+--
 
 
 ## Author
